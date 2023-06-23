@@ -1,4 +1,4 @@
-[![MasterHead](https://hackernoon.com/images/f2px36fy.gif)]
+![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
 <h1 align="center">Hi 👋, I'm Jules Ezeh</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
