@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jules Okoye-ezeh</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810" >
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/4a/44/cc/4a44cccd576fec851302e249b0984028.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesezeh&label=Profile%20views&color=0e75b6&style=flat" alt="julesezeh" /> </p>
 
