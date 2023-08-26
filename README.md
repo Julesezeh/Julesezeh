@@ -1,4 +1,4 @@
-![MasterHead](https://hackernoon.com/images/f2px36fy.gif)
+![MasterHead]([https://hackernoon.com/images/f2px36fy.gif](http://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif))
 <h1 align="center">Hi 👋, I'm Jules Okoye-ezeh</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
