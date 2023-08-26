@@ -1,4 +1,4 @@
-![MasterHead]
+
 <h1 align="center">Hi 👋, I'm Jules Okoye-ezeh</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
