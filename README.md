@@ -10,21 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/draymondoublex" target="blank"><img src="https://img.shields.io/twitter/follow/draymondoublex?logo=twitter&style=for-the-badge" alt="draymondoublex" /></a> </p>
 
-- 🔭 I’m currently working on **An Archive for herbal therapies**
-
-- 🌱 I’m currently learning **Fast API and Solidity**
-
-- 👯 I’m looking to collaborate on **Decentralized medical records**
-
-- 🤝 I’m looking for help with **Responsive front-end designs for my applications**
-
 - 💬 Ask me about **Python, Django and Webhooks**
 
 - 📫 How to reach me **Julesezehthefirst@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gy4VSgZHmKUkmhI-5ziOtmAmgK3nrXzr/view?usp=drive_link](https://drive.google.com/file/d/1Gy4VSgZHmKUkmhI-5ziOtmAmgK3nrXzr/view?usp=drive_link)
-
-- ⚡ Fun fact **I love Basketball 🏀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
