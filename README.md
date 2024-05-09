@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jules Okoye-ezeh</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center" style="color:green">A Top-rated Full Stack developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1028385/screenshots/2952329/tgif_030.gif" >
 
