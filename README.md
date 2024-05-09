@@ -3,6 +3,9 @@
 <h3 align="center" style="color:green">A Top-rated Full Stack developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1028385/screenshots/2952329/tgif_030.gif" >
+
+<br/>
+
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesezeh&label=Profile%20views&color=0e75b6&style=flat" alt="julesezeh" /> </p>
 
@@ -13,7 +16,7 @@
 
 - <h1>💬 Ask me about</h1>
   .<h2><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> Python Web Frameworks such as Django and Flask.</h2>
-  .<h2>Javascript UI frameworks such as React</h2>
+  .<h2><img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png"/> React</h2>
   .<h2>Webhooks and Websockets</h2>
   .<h2>OpenAI intergation</h2>
   .<h2>Payment system intergations</h2> <h3>and more**</h3>
