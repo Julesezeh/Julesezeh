@@ -4,8 +4,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1028385/screenshots/2952329/tgif_030.gif" >
 
-<h2 align="left" position=fixed width="700px"></h2>
-<h2></h2>
+<h2 align="left" position=fixed width="100%">----------</h2>
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesezeh&label=Profile%20views&color=0e75b6&style=flat" alt="julesezeh" /> </p>
 
