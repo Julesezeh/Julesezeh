@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/draymondoublex" target="blank"><img src="https://img.shields.io/twitter/follow/draymondoublex?logo=twitter&style=for-the-badge" alt="draymondoublex" /></a> </p>
 
-- 💬 Ask me about **Python web frameworks such as Django and Flask**, **Webhooks and Websockets**, **React, Bootstrap and Tailwindcss**
+- 💬 Ask me about <ul> <li>**Python web frameworks such as Django and Flask**</li> <li>**Webhooks and Websockets**</li> <li>**React**</li> <li>**Bootstrap and Tailwindcss**</li>
 
 - 📫 How to reach me **Julesezehthefirst@gmail.com**
 
