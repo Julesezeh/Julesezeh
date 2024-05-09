@@ -4,12 +4,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1028385/screenshots/2952329/tgif_030.gif" >
 
+<h2></h2>
+<h2></h2>
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julesezeh&label=Profile%20views&color=0e75b6&style=flat" alt="julesezeh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julesezeh" alt="julesezeh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/draymondoublex" target="blank"><img src="https://img.shields.io/twitter/follow/draymondoublex?logo=twitter&style=for-the-badge" alt="draymondoublex" /></a> </p>
-
+-->
 - 💬 Ask me about **Python, Django and Webhooks**
 
 - 📫 How to reach me **Julesezehthefirst@gmail.com**
