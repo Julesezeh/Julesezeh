@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.upwork.com/freelancers/~0166f124d0b7da15a2" target="blank"><img align="center" src="https://seeklogo.com/images/U/upwork-logo-38004EEA61-seeklogo.com.png" alt="draymondoublex" height="30" width="40" /></a>
 <a href="https://twitter.com/draymondoublex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="draymondoublex" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jules-o-10a04a253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jules-o-10a04a253" height="30" width="40" /></a>
 <a href="https://instagram.com/buikemmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="buikemmm" height="30" width="40" /></a>
