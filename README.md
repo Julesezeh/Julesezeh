@@ -10,11 +10,12 @@
 
 <p align="left"> <a href="https://twitter.com/draymondoublex" target="blank"><img src="https://img.shields.io/twitter/follow/draymondoublex?logo=twitter&style=for-the-badge" alt="draymondoublex" /></a> </p>
 
-- 💬 Ask me about <h2>**Python Web Frameworks such as Django and Flask.</h2>
-  <h2>Javascript UI frameworks such as React</h2>
-  <h2>Webhooks and Websockets</h2>
-  <h2>OpenAI intergation</h2>
-  <h2>Payment system intergations</h2> <h3>and more**</h3>
+- <h1>💬 Ask me about</h1>
+  .<h2><img src="https://icons8.com/icon/mUBILbYvUMq8/django" /> Python Web Frameworks such as Django and Flask.</h2>
+  .<h2>Javascript UI frameworks such as React</h2>
+  .<h2>Webhooks and Websockets</h2>
+  .<h2>OpenAI intergation</h2>
+  .<h2>Payment system intergations</h2> <h3>and more**</h3>
 
 - 📫 How to reach me **Julesezehthefirst@gmail.com**
 
