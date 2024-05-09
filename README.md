@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jules Okoye-ezeh</h1>
-<h3 align="center">A passionate backend developer from Nigeria</h3>
+<h3 align="center">A Top-Rated FullStack developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1028385/screenshots/2952329/tgif_030.gif" >
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/draymondoublex" target="blank"><img src="https://img.shields.io/twitter/follow/draymondoublex?logo=twitter&style=for-the-badge" alt="draymondoublex" /></a> </p>
 
-- 💬 Ask me about **Python, Django and Webhooks**
+- 💬 Ask me about **Python web frameworks such as Django and Flask**, **Webhooks and Websockets**, **React, Bootstrap and Tailwindcss**
 
 - 📫 How to reach me **Julesezehthefirst@gmail.com**
 
